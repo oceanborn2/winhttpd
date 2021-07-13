@@ -1,3 +1,9 @@
+# This repository specific
+
+Simply added a Visual Studio solution. Probably should add a cmake build instead.
+
+
+
 # WinHTTPD - [darkhttpd](https://unix4lyfe.org/darkhttpd/) ported to Windows 
 
 Few points first:
